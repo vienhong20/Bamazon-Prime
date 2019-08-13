@@ -15,5 +15,5 @@ The manager view of the app presents the user with a list of set menu options. D
 * Add to Inventory
 * Add New Product
 
-https://github.com/vienhong20/Bamazon-Prime/blob/master/assets/images/bamazonManager.png
+![alt text](https://github.com/vienhong20/Bamazon-Prime/blob/master/assets/images/bamazonManager.png)
 
