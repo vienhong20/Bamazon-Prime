@@ -1,6 +1,6 @@
 # Bamazon
 
-Bamazon is a command line node application using MySQL and npm packages to create an Amazon-like storefront. 
+Bamazon-CLI is a node command line interface that interacts with the Bamazon SQL Database. It allows the users to view and purchase items from the inventory. It allows Managers to edit and manage the products in the Bamazon database. Lastly it allows Supervisors to view departments and sales data for reports.
 
 ### Customer View
 The customer view of the app takes in orders from users and depletes stock from the store's inventory. It validates input and will let the customer know if they've entered an invalid item ID or if an item is out of stock. If the item is available in the quantity specified, the customer will be given the total price and the inventory will be updated on the backend.
